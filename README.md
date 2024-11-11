@@ -9,7 +9,7 @@ This is a collection of some of my python scripts, all bundled in one python scr
 - Type ```python3 The_Emporium.py``` in your terminal.
 - Thats it, you are done!
 
+![image](https://github.com/user-attachments/assets/ccd94840-fc24-44a7-8c90-d8efd8b1a525)
+
 > [!WARNING]
 > Do not rename or remove the "Items" folder, as it will cause the script to not work.
-
-![image](https://github.com/user-attachments/assets/ccd94840-fc24-44a7-8c90-d8efd8b1a525)
