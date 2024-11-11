@@ -1,6 +1,5 @@
-
-
-A collection of some of my python scripts, all bundled in one python script that executes all of them.
+# What Is This?
+This is a collection of some of my python scripts, all bundled in one python script that executes all of them.
 
 # Installation:
 ```git clone https://github.com/p4intcantaim/p4ints-Python-Emporium```
