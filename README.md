@@ -3,7 +3,7 @@
 A collection of some of my python scripts, all bundled in one python script that executes all of them.
 
 # Installation:
-- ```git clone https://github.com/p4intcantaim/p4ints-Python-Emporium```
+```git clone https://github.com/p4intcantaim/p4ints-Python-Emporium```
 
 # Instructions:
 - Go to the directory of "The_Emporium.py" in a terminal.
