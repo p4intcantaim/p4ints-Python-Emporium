@@ -8,21 +8,19 @@
 - ```cd p4ints-Python-Emporium```
 - ```python3 The_Emporium.py```
 ----------------------------------
-# List Of Apps Inside:
-### Games:
+# Whats Inside?
+- There is the "Items" folder that holds all of the scripts.
+- And there is the "The_Emporium.py" script that runs the scripts depending on your input
+## Games:
 -    Rock Paper Scissors
 -    Coin Flip
 -    Find Treasure
 
-### Tools:
+## Tools:
 -    Password Generator
 -    Bruteforce (Password Cracker)
 -    Tip Calculator
 -    Even Or Odd Checker
-----------------------------------
-# Whats Inside?
-- There is the "Items" folder that holds all of the scripts.
-- And there is the "The_Emporium.py" script that runs the scripts depending on your input
 > [!WARNING]
 > Do not rename or remove the "Items" folder, as it will cause the script to not work.
 ----------------------------------
